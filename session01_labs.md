@@ -1,3 +1,15 @@
+### Online code editors:
+MIMIC Project:
+https://mimicproject.com/about
+
+CodePen:
+https://codepen.io/
+
+
+### Figma - online tool for digital design and sharing files
+
+https://www.figma.com/
+
 ### Exercise 1.
 Pick a social media or streaming platform. Looking at the UK GOV guidelines, can you think of how to improve its accessibility?
 
