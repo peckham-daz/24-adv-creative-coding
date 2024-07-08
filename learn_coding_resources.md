@@ -2,6 +2,8 @@
 
 https://mimicproject.com/course/javascript/overview <br><br>
 
+#### "Modern JavaScript" book (online)
+https://javascript.info/<br><br>
 
 #### W3 Schools HTML Course
 https://www.w3schools.com/html/default.asp<br><br>
