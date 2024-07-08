@@ -19,7 +19,10 @@ https://www.lauriefrick.com/ <br><br>
 https://joanachicau.com/<br><br>
 
 #### Winnie (Siu) Soon - personal website (artist, coder, researcher)
-https://www.siusoon.net/
+https://www.siusoon.net/<br><br>
+
+#### Yadira Sanchez Benitez - personal website (artist, developer, researcher)
+https://maquinaspluriversales.xyz/<br><br>
 
 #### Lauren Lee McCarthy - portfolio website (artist, developer)
 https://lauren-mccarthy.com/<br><br>
