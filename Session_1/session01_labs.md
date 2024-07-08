@@ -55,9 +55,10 @@ Feel free to use Figma to design it before coding it if you'd like.
 
 ### Exercise 2b.
 
-Using the accessibility guidelines from class, try to adapt your design from Exercise 1a accordinly.
+Using the accessibility guidelines from class, try to adapt your design from Exercise 1a accordingly.
 
-UK Government guidelines
+UK Government guidelines:
+
 
 UK Dyslexia Association guidelines:
 
