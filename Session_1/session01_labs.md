@@ -58,10 +58,10 @@ Feel free to use Figma to design it before coding it if you'd like.
 Using the accessibility guidelines from class, try to adapt your design from Exercise 1a accordingly.
 
 UK Government guidelines:
-
+https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
 
 UK Dyslexia Association guidelines:
-
+https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide
 
 
 ### Exercise 3.

@@ -21,3 +21,7 @@
 
 #### Session 5
 Final project workshop
+
+
+#### Other materials
+[Cool websites for reference](./cool_website_examples.md)
