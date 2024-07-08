@@ -18,6 +18,9 @@ https://www.lauriefrick.com/ <br><br>
 #### Joana Chicau - personal website (creative coder)
 https://joanachicau.com/<br><br>
 
+#### Winnie (Siu) Soon - personal website (artist, coder, researcher)
+https://www.siusoon.net/
+
 #### Lauren Lee McCarthy - portfolio website (artist, developer)
 https://lauren-mccarthy.com/<br><br>
 
