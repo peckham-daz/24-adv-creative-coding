@@ -1,3 +1,4 @@
+### HTML, CSS and JavaScript resources
 #### Creative Javascript Crash Course by Prof. Mick Grierson
 
 https://mimicproject.com/course/javascript/overview <br><br>
@@ -30,4 +31,12 @@ https://www.w3resource.com/html/HTML-tutorials.phpbr><br><br>
 #### W3 Resource CSS tutorials
 https://www.w3resource.com/css/CSS-tutorials.php<br><br>
 
+### Figma resources
+#### Wireframing in Figma<br>
+https://www.youtube.com/watch?v=D4NyQ5iOMF0<br><br>
 
+#### Figma for beginners<br>
+https://help.figma.com/hc/en-us/sections/4405269443991-Figma-for-Beginners-4-parts<br><br>
+
+#### Figma 101<br>
+https://designlab.com/figma-101-course/lessons<br><br>
