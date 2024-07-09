@@ -31,6 +31,16 @@ https://www.w3resource.com/html/HTML-tutorials.phpbr><br><br>
 #### W3 Resource CSS tutorials
 https://www.w3resource.com/css/CSS-tutorials.php<br><br>
 
+### Style guides - how to format your code
+#### W3 Schools HTML Style Guide
+https://www.w3schools.com/htmL/html5_syntax.asp<br><br>
+
+#### Google HTML & CSS Style Guide
+https://google.github.io/styleguide/htmlcssguide.html<br><br>
+
+#### JavaScript Style Guide
+https://www.w3schools.com/js/js_conventions.asp<br><br>
+
 ### Figma resources
 #### Wireframing in Figma<br>
 https://www.youtube.com/watch?v=D4NyQ5iOMF0<br><br>
