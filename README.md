@@ -1,6 +1,11 @@
 #### 24-adv-creative-coding
 ### Course repository for Module 1: Advanced Creative Coding
 
+### Learning materials & references
+[Cool websites for reference](./cool_website_examples.md)<br>
+[Resources to study/practice coding](./learning_resources.md)<br>
+[Reading resources](./reading_resources.md)
+
 ### Module structure:
 #### Session 1 
 [Session 1 materials](./Session_1) (Friday, 5th July 2024)
@@ -23,5 +28,3 @@
 Final project workshop
 
 
-#### Other materials
-[Cool websites for reference](./cool_website_examples.md)
