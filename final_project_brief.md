@@ -16,10 +16,10 @@
 | Submission date          | Tuesday, 5th August 2024 by 11:59 pm                                                                                                                                                                                                                                                                                                                                                                    |
 | Adjusted submission date | Tuesday, 12th August 2024 by 11:59 pm                                                                                                                                                                                                                                                                                                                                                                   |
 | Submission method:       | **A single document (.pdf, .md., odt or .docx) uploaded to your personal folder shared by your tutor containing:**<br/>1. A link to your website published online.<br/>2. A reflection of your learning process and the final outcome.<br/>3. Links  to exercises from class and homework developed throughout the course.<br/>4. Any other supplementary materials you may choose to share (optional). |  ----------- |----------------|   |                                         
-**<br>(placeholder for a link and video about UAL Level 7 marking criteria)<br>
+**<br>(placeholder for a link and video about UAL Level 7 marking criteria)<br>**
 https://www.arts.ac.uk/__data/assets/pdf_file/0034/179737/Assessment-Criteria-Level-7-PDF-94KB.pdf<br><br>
 
-(placeholder for information about the Adjusted Deadline - contact Marysia and CC your tutor. For anyone with a disability, learning difficulty or neurodiverse, or who experienced any unforseeable event that impacted their work.)<br><br>
+**(placeholder for information about the Adjusted Deadline - contact Marysia and CC your tutor. For anyone with a disability, learning difficulty or neurodiverse, or who experienced any unforseeable event that impacted their work.)<br><br>
 (placeholder for information about late submissions. Submissions up to 7 days late get a lower mark. Later submissions marked at tutor's discretion)**
 ### Further Information
 <br><br>
