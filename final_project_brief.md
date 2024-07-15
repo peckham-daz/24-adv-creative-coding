@@ -1,4 +1,4 @@
-# [DRAFT] Final Project Brief
+# Final Project Brief
 ## Module 1: Advanced Creative Coding
 ### Peckham DAZ Programme - summer 2024
 #### Weeks 1-5
@@ -21,8 +21,8 @@
 
 
 #### How will we mark your work?
-Your work will be marked according to UAL Level 7 (MSc) assessment criteria. If you have any questions, please as your tutor for clarification.<br>
-https://www.youtube.com/watch?v=n1IXAFN_79I
+Your work will be marked according to UAL Level 7 (MSc) assessment criteria. If you have any questions, please ask your tutor for clarification.<br>
+https://www.youtube.com/watch?v=n1IXAFN_79I<br>
 https://www.arts.ac.uk/__data/assets/pdf_file/0034/179737/Assessment-Criteria-Level-7-PDF-94KB.pdf<br><br>
 #### When to expect feedback by
 You can expect feedback within 2 weeks of your submission deadline.<br><br>
