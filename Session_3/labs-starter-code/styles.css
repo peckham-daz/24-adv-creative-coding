@@ -1,0 +1,130 @@
+/* Reset some default styles */
+body, h1, h2, h3, h4, p, ul, li, nav, div {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f0f0f0; /* Ex.3A */
+    color: #cccccc;  /*Ex.3A */
+    padding: 20px;
+}
+
+/* Header and Navigation styling */
+#header {
+    background: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+#navigation {
+    background: #444;
+    padding: 10px;
+    text-align: center;
+}
+
+#navigation a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+#navigation a:hover {
+    text-decoration: underline;
+}
+
+/* Image styling */
+.img-container {
+    margin-bottom: 20px;
+}
+
+.img-container img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Main content styling */
+#main-content {
+    margin: 20px 0;
+}
+
+.about-container {
+    display: flex;
+}
+
+/* About section styling */
+#about-section {
+    min-width: 50%;
+    background: #fff;
+    padding: 20px;
+    margin: 0px 0px 20px 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#about-section h2 {
+    margin-bottom: 10px;
+}
+
+/* Contact section styling */
+#contact-section {
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#contact-section h4 {
+    margin-bottom: 10px;
+}
+
+#contact-section form div {
+    margin-bottom: 10px;
+}
+
+#contact-section label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#contact-section input,
+#contact-section textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Footer styling */
+#footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Button styling */
+.btn-submit {
+
+}
+
+.btn-submit:hover {
+
+}
+
+/* Video styling */
+video {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
