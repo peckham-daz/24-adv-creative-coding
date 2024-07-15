@@ -10,7 +10,7 @@ For the coding part of this lab, you will this code starter!:
 ### Exercise 2A
 Add 'alt' text to the image in the HTML. Provide a meaningful description.
 ### Exercise 2B
-Replace the div tags that define the page structure with appropriate semantic elements (e.g <header> <nav> <main> <section>...). Use the W3C resources for a reference of HTML tags.
+Replace the div tags that define the page structure with appropriate semantic elements (e.g header, ,nav, ,main, ,section...). Use the W3C resources for a reference of HTML tags.
 ### Exercise 2C
 Use proper heading tags. Ensure that the headings follow a logical order.
 ### Exercise 2D
