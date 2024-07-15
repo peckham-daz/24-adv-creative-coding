@@ -1,6 +1,9 @@
 #### 24-adv-creative-coding
 ### Course repository for Module 1: Advanced Creative Coding
 
+### Final project brief
+[final_project_brief.md](./final_project_brief.md)
+
 ### Learning materials & references
 [Cool websites for reference](./cool_website_examples.md)<br>
 [Resources to study/practice coding](./learning_resources.md)<br>
