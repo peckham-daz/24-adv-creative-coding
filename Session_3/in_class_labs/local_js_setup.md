@@ -1,9 +1,12 @@
 1. Install:
 - nvm: https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/
 - a stable version of node: https://nodejs.org/en/download/prebuilt-installer/current
-2. go to the main repo folder: <br>
-    ```cd {YOUR_PROJECT_DIRECTORY}```
-3. npm install -g browser-sync
+2. Open the console (a.k.a. terminal / command line / cmd) and go to the main project folder. Then install browser-sync. <br>
+```
+cd {YOUR_PROJECT_DIRECTORY}
+npm install -g browser-sync
+```
+ 
 4. copy the following code to {YOUR_PROJECT_DIRECTORY}/dev_files/watcher.js:
   ```
 const browserSync = require('browser-sync').create();
