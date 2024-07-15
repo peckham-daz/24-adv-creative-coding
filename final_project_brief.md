@@ -1,4 +1,4 @@
-# [DRAFT] Final Project Brief
+# Final Project Brief
 ## Module 1: Advanced Creative Coding
 ### Peckham DAZ Programme - summer 2024
 #### Weeks 1-5
