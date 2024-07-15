@@ -65,7 +65,7 @@ If you're eligible for the adjusted deadline, please email the Programme Leader 
 #### 3. Links or files of exercises from class or homework developed throughout the course.
 - these can be links to online coding platforms or links to code files shared elsewhere online.
 <br><br>
-#### The optional supplementary materials can include:
+#### 4. The optional supplementary materials can include:
 - a different or work-in-progress version of the website,
 - a design sketch for your website (for example, a link to a Figma project),
 - documentation of your learning process and exercises,
