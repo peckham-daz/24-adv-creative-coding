@@ -1,5 +1,10 @@
 #lab exercises
 
+Starter code
+
+https://codepen.io/yadlra/pen/zYVqvbM
+
+
 ## Exercise 1: Adding content sections
 
 **Context**: Add sections to your webpage to provide detailed information about the monarch butterfly. Sections help organize your content and make it easier to navigate.
