@@ -1,4 +1,4 @@
-#lab exercises
+# lab exercises
 
 Starter code
 
@@ -83,14 +83,14 @@ https://codepen.io/yadlra/pen/zYVqvbM
 
 ## Exercise 4: Adding dropdown menu
 
-**Context**: Enhance the navigation bar by adding a dropdown menu for the Habitat section.
+**Context**: Improve the navigation bar by adding a dropdown menu for the Habitat section.
 
 1. **Create dropdown menu**:
     - In `index.html`, update the navigation bar to include a dropdown menu for the Habitat section.
 
 **Instructions**:
 - Add nested `<ul>` elements inside the Habitat list item.
-- Use CSS to style the dropdown menu and make it appear on hover.
+- Your CSS has been added to style the dropdown menu and make it appear on hover. Find it and see what it's doing.
 
 **Tips**:
 - Use `:hover` to display the dropdown menu.
@@ -110,9 +110,9 @@ https://codepen.io/yadlra/pen/zYVqvbM
 
 **Tips**:
 - Breadcrumbs should show the user's current position.
-- Ensure the breadcrumb navigation is easy to read and use.
+- Make sure the breadcrumb navigation is easy to read and use.
 
-## Exercise 6: Adding site map 
+## Exercise 6: Adding a site map 
 
 **Context**: Create a site map to provide an overview of all sections and links on the website.
 
@@ -125,23 +125,22 @@ https://codepen.io/yadlra/pen/zYVqvbM
 - Inside this section, create an unordered list (`<ul>`) with list items (`<li>`) and anchor tags (`<a>`).
 
 **Tips**:
-- Ensure the site map is comprehensive and includes all sections.
+- Make sure the site map includes all sections.
 - Make sure each link works correctly.
 
-## Exercise 7: Enhancing accessibility with buttons
+## Exercise 7: Improving accessibility with buttons
 
 **Context**: Add buttons to increase/decrease text size and toggle the theme for better accessibility.
 
 1. **Add accessibility buttons**:
     - In `index.html`, add buttons within the `div.custom-buttons` to increase and decrease text size and toggle the theme.
-    - Implement the functions in `scripts.js`.
 
 **Instructions**:
 - Add buttons for increasing text size, decreasing text size, and toggling the theme.
-- Write JavaScript functions to handle these button clicks.
+- The JavaScript functions to handle these button clicks have been added, you need to write the code in your HTML section.
 
 **Tips**:
-- Make sure buttons are easy to use and accessible. Place them in a visible place!
+- Make sure buttons are easy to use and accessible. Place them in a visible place! Where would you do this so the user sees them easily?
 - Test the functionality of each button.
 
 
