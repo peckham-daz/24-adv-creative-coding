@@ -95,23 +95,8 @@ https://codepen.io/yadlra/pen/zYVqvbM
 - Use `:hover` to display the dropdown menu.
 - Test the dropdown menu by hovering over the Habitat link.
 
-## Exercise 5: Adding breadcrumb navigation
 
-**Context**: Add breadcrumb navigation to help users understand their current location on the website.
-
-1. **Add breadcrumb navigation**:
-    - In your HTML section, add a breadcrumb navigation below the header.
-    - Make sure it reflects the current page structure.
-
-**Instructions**:
-- Add a `<nav>` element with `aria-label="breadcrumb"`.
-- Inside the `<nav>`, create an ordered list (`<ol>`) with list items (`<li>`) and anchor tags (`<a>`).
-
-**Tips**:
-- Breadcrumbs should show the user's current position.
-- Make sure the breadcrumb navigation is easy to read and use.
-
-## Exercise 6: Adding a site map 
+## Exercise 5: Adding a site map 
 
 **Context**: Create a site map to provide an overview of all sections and links on the website.
 
