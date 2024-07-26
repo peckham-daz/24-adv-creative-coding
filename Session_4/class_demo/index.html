@@ -1,0 +1,38 @@
+<p id="my-paragraph">This is my paragraph</p>
+<script>
+    // get the DOM element based on ID
+    let paragraph = this.document.getElementById("my-paragraph");
+
+    // get the current styling. None is applied, so it's the default values
+    let paragraphStyle = window.getComputedStyle(paragraph, null);
+    // console.log('PARAGRAPH STYLE', paragraphStyle);
+
+    // get the current font size
+    let fontSize = paragraphStyle.getPropertyValue('font-size');
+    // console.log('TEXT SIZE');
+    // console.log(fontSize);
+
+    // this line cuts off the last 2 characters ("16px" => "16")
+    // https://www.w3schools.com/jsref/jsref_slice_string.asp
+    let pixelSize = fontSize.slice(0, -2);
+    // console.log(pixelSize);
+    // console.log(typeof pixelSize);
+
+    // change string to integer
+    let pixelSizeNumber = parseInt(pixelSize);
+
+    // multiply the number
+    let newFontSize = pixelSizeNumber * 1.2;
+
+    // round the new font size to the closest integer
+    let roundedFontSize = Math.round(newFontSize);
+
+    // turn it back into a string and add the "px"
+    let newFontStr = roundedFontSize.toString() + 'px;';
+    console.log(newFontStr);
+    // paragraphStyle.fontSize = newFontStr;
+
+    // set the style of the paragraph and set the colour
+    paragraph.setAttribute('style', 'size: ' + newFontStr + "color: blue");
+
+</script>
