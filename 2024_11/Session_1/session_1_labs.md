@@ -61,7 +61,7 @@ Adding a font with CSS: https://www.w3schools.com/css/css3_fonts.asp
 
 ### Exercise 2b.
 
-Using the accessibility guidelines from class, try to adapt your design from Exercise 1a accordingly.
+Using the accessibility guidelines from class, try to adapt your design from Exercise 2a accordingly.
 
 UK Government guidelines:
 https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
@@ -92,6 +92,11 @@ https://designlab.com/figma-101-course/lessons
 ### Homework
 1. Finish the labs from class.
 2. Please bring a wireframe design for your website for next week to continue working on it throughout the course.
+3. Please fill out this short survey if you haven't done so in class. This data is requested by the project sponsor and will help us with reporting. https://forms.gle/PmWi1VZ38cxb2aNz5
+
+### Announcements
+1. Next week at the start of the lecture, we'll be joined by Marvalyn from UKBlackTech, who will introduce upcoming events and workshops.
+2. Next week, we'll be starting to learn JavaScript.
 
 ### Additional Resources
 HTML tags reference:<br>
