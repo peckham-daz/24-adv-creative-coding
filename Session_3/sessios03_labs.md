@@ -18,8 +18,6 @@ Replace vague link text with more descriptive text
 ### Exercise 2E
 Add label HTML tags to provide labels for form controls.
 ### Exercise 2F
-Add captions to the video using the <track> HTML tag.
-### Exercise 2G
 Add an ARIA attribute to the button
 ## Exercise 3 - Accessible CSS
 Navigate to the styles.css file for these exercises.
