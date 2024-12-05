@@ -1,6 +1,6 @@
 # Final Project Brief
 ## Module 1: Advanced Creative Coding
-### Peckham DAZ Programme - summer 2024
+### Peckham DAZ Programme - 2024/25
 #### Weeks 1-5
 
 | Learning Outcomes | |
@@ -13,19 +13,19 @@
 
 | Assessment               |                                                                                                                                                                                                                                                                                                                                                                                                         |
 |--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Submission date          | Tuesday, 6th August 2024 by 11:59 pm                                                                                                                                                                                                                                                                                                                                                                    |
-| Adjusted submission date | Tuesday, 13th August 2024 by 11:59 pm                                                                                                                                                                                                                                                                                                                                                                   |
+| Submission date          | 2 weeks after Session 4 by 11:59 pm                                                                                                                                                                                                                                                                                                                                                                     |
+| Adjusted submission date | 3 weeks after Session 4 by 11:59 pm                                                                                                                                                                                                                                                                                                                                                                     |
 | Submission method:       | **A single document (.pdf, .md., odt or .docx) uploaded to your personal folder shared by your tutor containing:**<br/>1. A link to your website published online.<br/>2. A reflection of your learning process and the final outcome.<br/>3. Links  to exercises from class and homework developed throughout the course.<br/>4. Any other supplementary materials you may choose to share (optional). |  ------------------------- |----------------------------|       
 ---
 
 
 
 #### How will we mark your work?
-Your work will be marked according to UAL Level 7 (MSc) assessment criteria. If you have any questions, please ask your tutor for clarification.<br>
+Your work will be marked according to UAL Level 7 (MSc) assessment criteria. If you have any questions, please ask your tutor for clarification. Projects meeting all of the Basic and most of the Advanced Criteria will get a Distinction. Projects which sufficiently meet the Basic criteria will be awarded with<br>
 https://www.youtube.com/watch?v=n1IXAFN_79I<br>
 https://www.arts.ac.uk/__data/assets/pdf_file/0034/179737/Assessment-Criteria-Level-7-PDF-94KB.pdf<br><br>
 #### When to expect feedback by
-You can expect feedback within 2 weeks of your submission deadline.<br><br>
+You can expect feedback within 1 month of your submission deadline.<br><br>
 
 #### Adjusted deadline
 If you're eligible for the adjusted deadline, please email the Programme Leader (Marysia) directly and CC your personal tutor.<br><br>
@@ -36,7 +36,7 @@ If you're eligible for the adjusted deadline, please email the Programme Leader 
 <br><br>
 #### Late submissions:
 - submissions up to 7 days late will get a lower mark.
-- later submissions will be capped to a D and may receive delayed feedback. Projects submitted more than 2 weeks after the deadline will be marked at the tutor's discretion.
+- later submissions will be capped to a Basic Pass and may receive delayed feedback. Projects submitted more than 2 weeks after the deadline will be marked at the tutor's discretion.
 
 ### Project specification
 
@@ -44,7 +44,7 @@ If you're eligible for the adjusted deadline, please email the Programme Leader 
 - Example website topics:
   - your personal website featuring your developer and/or creative portfolio and professional information,
   - a website for a small business owned by you or a close one,
-  - a website for a small business based in the borough of Southwark,
+  - a website for a small business based in the borough of Southwark (with permission from the owners),
   - a website referring to one of themes of the Southwark Economic Strategy 2023-30 (https://www.southwark.gov.uk/business/southwark-economic-strategy),
   - a website demonstrating your hobby or personal interests,
   - another topic that allows you to demonstrate the skills listed in this Final Project Brief.
