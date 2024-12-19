@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Viewport meta tag explanation:
+         width=device-width: Sets the width of the page to follow the screen-width of the device
+         initial-scale=1.0: Sets the initial zoom level when the page is loaded
+         viewport-fit=cover: makes sure content fits different screen sizes including notched phones -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+    />
+
+    <style>
+      /* <!-- some CSS  --> */
+
+      /* <!--  Responsive styling using skip links --> */
+
+      .skip-link {
+        position: absolute;
+        left: 0;
+        top: -40px; /* Hidden by default */
+        background: #333;
+        color: white;
+        padding: 8px 16px;
+        z-index: 100;
+        transition: top 0.3s;
+      }
+
+      .skip-link:focus {
+        top: 0; /* appears when focused */
+      }
+
+      /* Responsive styling for mobile */
+      @media (max-width: 600px) {
+        .control-box {
+          display: flex;
+          flex-direction: column;
+        }
+
+        button {
+          width: 100%;
+          margin: 5px 0;
+        }
+      }
+
+      /* style for the box containing our buttons */
+      .control-box {
+        margin: 20px;
+        padding: 15px;
+        border: 1px solid #ccc;
+        background-color: #f5f5f5;
+      }
+
+      /*style for our paragraph that we'll modify */
+      .demo-text {
+        margin: 20px;
+        padding: 15px;
+        border: 1px solid #ddd;
+        /* This makes changes happen smoothly */
+        transition: all 0.3s ease;
+      }
+
+      /* some button styling */
+      button {
+        margin: 5px;
+        padding: 8px 16px;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="#controls" class="skip-link">Skip to controls</a>
+    <a href="#demo-text" class="skip-link">Skip to demo text</a>
+
+    <!-- this is where our buttons will go -->
+    <main>
+      <!-- Control box with ID for skip link -->
+      <div id="controls" class="control-box">
+        <h3>Try these buttons to change the text below!</h3>
+        <button onclick="makeBigger()">Make Text Bigger</button>
+        <button onclick="changeTextColor()">Change Text Color</button>
+        <button onclick="makeBold()">Make Bold/Normal</button>
+        <button onclick="startOver()">Start Over</button>
+      </div>
+
+      <!-- Demo text with ID for skip link -->
+      <p id="sample-text" class="demo-text">
+        Hi! I'm the text you can change. Try clicking the buttons above! (Press
+        Tab to see skip links)
+      </p>
+
+      <div id="message" style="margin: 20px"></div>
+    </main>
+
+    <script>
+      // save the original settings so we can go back to them
+      const startingSettings = {
+        fontSize: "16px",
+        color: "black",
+        fontWeight: "normal",
+      };
+
+      // this function shows a message about what we just did
+      function showMessage(text) {
+        // find the message box and put our text in it
+        const messageBox = document.getElementById("message");
+        messageBox.innerHTML = "👉 " + text;
+      }
+
+      // this function makes the text bigger
+      function makeBigger() {
+        // step 1: find our paragraph in the page
+        const text = document.getElementById("sample-text");
+
+        // step 2: get the current size of the text
+        const currentStyle = window.getComputedStyle(text);
+        const currentSize = parseFloat(currentStyle.fontSize);
+
+        // step 3: make it 20% bigger
+        const newSize = currentSize * 1.2;
+
+        // step 4: apply the new size to our text
+        text.style.fontSize = newSize + "px";
+
+        // step 5: show what we did
+        showMessage(`Made the text bigger! It's now ${newSize.toFixed(0)}px`);
+      }
+
+      // this function changes the text color
+      function changeTextColor() {
+        // step 1: find our paragraph
+        const text = document.getElementById("sample-text");
+
+        // step 2: list of colors we'll cycle through
+        const colorChoices = ["blue", "red", "green", "purple"];
+
+        // step 3: get current color (or black if none set)
+        const currentColor = text.style.color || "black";
+
+        // step 4: find the next color in our list
+        const currentIndex = colorChoices.indexOf(currentColor);
+        const nextColor =
+          colorChoices[(currentIndex + 1) % colorChoices.length];
+
+        // step 5: spply the new color
+        text.style.color = nextColor;
+
+        // step 6: show what we did
+        showMessage(`Changed the color to ${nextColor}`);
+      }
+
+      // this function makes text bold or normal
+      function makeBold() {
+        // step 1: find our paragraph
+        const text = document.getElementById("sample-text");
+
+        // step 2: check if it's already bold
+        const isBold = text.style.fontWeight === "bold";
+
+        // step 3: make it normal if it's bold, or bold if it's normal
+        if (isBold) {
+          text.style.fontWeight = "normal";
+          showMessage("Made the text normal");
+        } else {
+          text.style.fontWeight = "bold";
+          showMessage("Made the text bold");
+        }
+      }
+
+      // this function resets everything back to the start
+      function startOver() {
+        // step 1: find our paragraph
+        const text = document.getElementById("sample-text");
+
+        // step 2: put all the original settings back
+        text.style.fontSize = startingSettings.fontSize;
+        text.style.color = startingSettings.color;
+        text.style.fontWeight = startingSettings.fontWeight;
+
+        // step 3: show what we did
+        showMessage("Everything is back to normal!");
+      }
+    </script>
+  </body>
+</html>

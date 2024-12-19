@@ -9,7 +9,7 @@ https://codepen.io/yadlra/pen/zYVqvbM
 
 **Context**: Add sections to your webpage to provide detailed information about the monarch butterfly. Sections help organize your content and make it easier to navigate.
 
-1. **Add biology section or any section really - this is only an example**:
+1. **Add biology section**:
     - In your HTML section, add a section for Biology with an `<h1>` heading, a `<p>` paragraph, and an `<img>` image tag.
 
 **Instructions**:
