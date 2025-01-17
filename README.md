@@ -1,6 +1,8 @@
 #### 24-adv-creative-coding
 ### Course repository for Module 1: Advanced Creative Coding
 
+Please note the order of content between specific classes may change slightly depending on the course needs.
+
 ### Final project brief
 [final_project_brief.md](../final_project_brief.md)
 
