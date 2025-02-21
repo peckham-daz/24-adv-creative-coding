@@ -1,5 +1,9 @@
 # Lab Tasks: DOM Manipulation
 
+## <a href="https://codepen.io/danhearn-the-looper/pen/QwWNgVO">Starter Code</a>
+
+Refer to documentation to help you complete these exercises https://www.w3schools.com/js/js_htmldom.asp
+
 ## Task 1: Change the Page Title
 - Select the `<h1>` element using JavaScript.
 - Add an event listener to the "Change Title" button.
