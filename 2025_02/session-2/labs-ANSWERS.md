@@ -225,5 +225,3 @@ if (userGuess === targetNumber) {
   console.log("Too high! Try again.");
 }
 ```
-
-These exercises build a strong foundation in JavaScript basics using only the console.
