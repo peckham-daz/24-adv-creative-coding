@@ -29,4 +29,3 @@ You will need to search the internet for examples, just like a professional web 
 - Ensure that dynamically added elements are **focusable** and accessible via keyboard.
 - Modify buttons or input fields dynamically to provide better usability.
 
-These tasks will help improve both **visual accessibility** and **code-level accessibility** in the given website.
