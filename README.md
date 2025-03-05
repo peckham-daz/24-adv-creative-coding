@@ -1,5 +1,5 @@
 #### 24-adv-creative-coding
-### Course repository for Module 1: Advanced Creative Coding
+### Course repository for Module 1: Accessible Web Development
 
 Please note the order of content between specific classes may change slightly depending on the course needs.
 
@@ -12,32 +12,28 @@ Please note the order of content between specific classes may change slightly de
 [Reading resources](../reading_resources.md)
 
 ### Module structure:
-#### Session 1: Introduction to Accessible Web Design
+#### Session 1: Introduction to Web Development
 - Introduction to Accessibility,
 - Introduction to HTML,
 - Introduction to CSS,
+- Simple website structure with HTML and CSS,
 - Introduction to online code editors such as the MIMIC platform and CodePen,
-- Introduction to Figma, a digital design tool.<br><br>
 
 #### Session 2: Introduction to JavaScript
 - what is JavaScript and when to use it,
 - variables, data types, operators, conditional statements, loops, functions,
 - JavaScript and Accessibility.
-- The Document Object Model (DOM),
-- Interacting with DOM elements using JavaScript.<br><br>
 
-#### Session 3: Accessible Web Development
+#### Session 3: JavaScript and the Document Object Model (DOM)
 - recap on the basics of HTML, CSS and JavaScript,
 - How HTML, CSS and JavaScript work together.
-- Simple website structure with HTML and CSS,
 - Accessible styling, formatting and interaction.
-- Working with accessibility tools on the web.
-- Adding simple dynamic elements to the website.<br><br>
+- Adding simple dynamic elements to the website.
+- DOM and Accessibility.
 
-#### Session 4: Exploring Accessibility and Customisation in Website Development
-- Adding more interactivity to your website,
+#### Session 4: Accessible Web Design & Development
+- Accessibility design and development practices
+- Accessibility tools and documentation
 - Accessibility and customisation in website development.
-- Building websites with platforms.<br><br>
 
-
-
+Slides based on the "Accessible Web Design" course by UAL Creative Computing Institute, with contributions from Dan Hearn, Elena Petrova, Marysia Tańska and Yadira Sanchez Benitez
