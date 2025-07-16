@@ -1,0 +1,75 @@
+body {
+  padding: 2rem 1rem;
+  background: #ffffff;
+  font-family: "Pluto Sans Heavy", sans-serif;
+  color: #222;
+  text-align: center;
+  line-height: 1.5;
+}
+
+header,
+main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  margin-bottom: 1rem;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+  text-align: left;
+}
+
+label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+small {
+  display: block;
+  margin-top: 0.25rem;
+  color: #555;
+}
+
+textarea {
+  width: 100%;
+  min-height: 120px;
+  border: 2px solid #444;
+  border-radius: 4px;
+  padding: 0.75rem;
+  font-size: 1rem;
+  font-family: inherit;
+}
+
+
+textarea:focus,
+button:focus {
+  outline: 3px dashed #005fcc;
+  outline-offset: 4px;
+}
+
+button {
+  background: #005fcc;
+  color: #fff;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1.25rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #004bb5;
+}
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 2rem;
+  }
+  button {
+    width: 100%;
+  }
+}
